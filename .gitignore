@@ -1,0 +1,20 @@
+target/
+/local
+
+**/.idea
+
+# Eclipse, Netbeans and IntelliJ files
+!.gitignore
+!.github
+/nbproject
+/*.ipr
+/*.iws
+*.iml
+.settings/
+.project
+.classpath
+.factorypath
+.DS_Store
+user-registration-bpmn-function/_target/
+user-registration-bpmn-function/java-function-invoker-1.0.2.jar
+user-registration-sw-function/
